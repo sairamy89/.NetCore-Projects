@@ -1,0 +1,14 @@
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\bin\Debug\netcoreapp2.2\TestWithProc.deps.json
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\bin\Debug\netcoreapp2.2\TestWithProc.runtimeconfig.json
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\bin\Debug\netcoreapp2.2\TestWithProc.runtimeconfig.dev.json
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\bin\Debug\netcoreapp2.2\TestWithProc.dll
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\bin\Debug\netcoreapp2.2\TestWithProc.pdb
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\obj\Debug\netcoreapp2.2\TestWithProc.csprojAssemblyReference.cache
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\obj\Debug\netcoreapp2.2\TestWithProc.csproj.CoreCompileInputs.cache
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\obj\Debug\netcoreapp2.2\TestWithProc.RazorAssemblyInfo.cache
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\obj\Debug\netcoreapp2.2\TestWithProc.RazorAssemblyInfo.cs
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\obj\Debug\netcoreapp2.2\TestWithProc.AssemblyInfoInputs.cache
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\obj\Debug\netcoreapp2.2\TestWithProc.AssemblyInfo.cs
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\obj\Debug\netcoreapp2.2\TestWithProc.RazorTargetAssemblyInfo.cache
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\obj\Debug\netcoreapp2.2\TestWithProc.dll
+C:\Users\faiz.akram\Dotnet_proj\TestWithProc\obj\Debug\netcoreapp2.2\TestWithProc.pdb

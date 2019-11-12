@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\sairam.y\\Documents\\DotNetCoreProjects\\fiaz_Projects\\TestWithProc\\TestWithProc.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\sairam.y\\Documents\\DotNetCoreProjects\\fiaz_Projects\\TestWithProc\\TestWithProc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\sairam.y\\Documents\\DotNetCoreProjects\\fiaz_Projects\\TestWithProc\\TestWithProc.csproj",
+        "projectName": "TestWithProc",
+        "projectPath": "c:\\Users\\sairam.y\\Documents\\DotNetCoreProjects\\fiaz_Projects\\TestWithProc\\TestWithProc.csproj",
+        "packagesPath": "C:\\Users\\sairam.y\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\sairam.y\\Documents\\DotNetCoreProjects\\fiaz_Projects\\TestWithProc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sairam.y\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
