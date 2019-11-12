@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitLAB\\consumerportal_api\\msedclwebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\GitLAB\\consumerportal_api\\msedclwebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitLAB\\consumerportal_api\\msedclwebApi.csproj",
+        "projectName": "msedclwebApi",
+        "projectPath": "D:\\GitLAB\\consumerportal_api\\msedclwebApi.csproj",
+        "packagesPath": "C:\\Users\\sairam.y\\.nuget\\packages\\",
+        "outputPath": "D:\\GitLAB\\consumerportal_api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sairam.y\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.31, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
